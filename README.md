@@ -9,3 +9,6 @@ This interactive dashboard is designed to visualize and analyze customer complai
 - Use the =PY function to execute Python code within an Excel cell.
 - Ensure you are using the beta version of Microsoft 365 to access the Python formula feature in Excel.
 - Currently, the Excel file is not publicly accessible as it is still in the beta version. However, you can view the demonstration video I have provided as a reference.
+
+## Dashboard Demonstration
+![Watch the video](https://drive.google.com/file/d/1kjIKQY8SDcr2rRpgtDbjM_2xH8-BLBkE/view?usp=sharing)
