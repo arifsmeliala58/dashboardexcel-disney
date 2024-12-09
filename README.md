@@ -11,4 +11,4 @@ This interactive dashboard is designed to visualize and analyze customer complai
 - Currently, the Excel file is not publicly accessible as it is still in the beta version. However, you can view the demonstration video I have provided as a reference.
 
 ## Dashboard Demonstration
-![Watch the video](https://drive.google.com/file/d/1kjIKQY8SDcr2rRpgtDbjM_2xH8-BLBkE/view?usp=sharing)
+[Watch the video](https://drive.google.com/file/d/1kjIKQY8SDcr2rRpgtDbjM_2xH8-BLBkE/view?usp=sharing)
